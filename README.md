@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi there, I’m <a href="https://www.linkedin.com/in/andres-vega-software-engineer/" target="_blank">Andres Eduardo Vega</a> 👋</h1>
-<h3 align="center">Full-stack & Platform Engineer · M.Sc. AI candidate · Cat-loving gamer</h3>
+<h3 align="center">Full-stack & Platform Engineer · M.Sc. in Artificial Intelligence · Cat-loving gamer</h3>
 
 <p align="center">
   <a href="https://github.com/AEVegaEngineer?tab=followers"><img src="https://img.shields.io/github/followers/AEVegaEngineer?style=social" /></a>
@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🔭 &nbsp;Leading cloud-native, event-driven products for clients in the U.S. and LatAm  
-- 🎓 &nbsp;Finishing a **M.Sc. in Artificial Intelligence** (Universidad de los Andes, 2025)  
+- 🎓 &nbsp;**M.Sc. in Artificial Intelligence** (Universidad de los Andes, 2025)  
 - 🧩 &nbsp;Love mentoring devs, sketching architectures, and automating *everything* with Terraform  
 - 🐱 &nbsp;Proud cat-dad; will refactor for tuna
 
