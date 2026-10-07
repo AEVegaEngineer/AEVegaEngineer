@@ -20,7 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white&style=flat)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
